@@ -1,0 +1,17 @@
+1,John Doe,02222022,Director,,
+2,Jane Smith,0222202222,Supervisor,1,Casual Leave,2024-11-01,2024-11-03,Medical Emergency,Approved,peshawar;
+3,Mike Johnson,03324453435,Employee,2,Earned Leave,2024-12-01,2024-12-10,Vacation,Pending,parachinar;Official Leave,,,Client Meeting,Approved,jaranwala;Casual Leave,2024-11-25,2024-11-27,Family Event,Pending,sargodha;Casual Leave,2024-11-23,2024-11-25,sickness,Approved,hell;
+4,Sarah Brown,0471234566,Employee,2,Unpaid Leave,2024-09-01,2024-12-31,Study Leave,Disapproved,Address: 321 Brown St;Earned Leave,2024-11-15,2024-11-20,Personal Work,Approved,rawalpindi;
+5,Emily Clark,0333333333,Supervisor,1,Official Leave,,,Conference,Approved,Address: 654 Supervisor St;Casual Leave,2024-11-22,2024-11-23,Illness,Pending,islamabad;
+6,Robert Wilson,047123456,Employee,5,Earned Leave,2024-12-05,2024-12-15,Honeymoon,Pending,Address: 987 Wilson Road;Unpaid Leave,2024-09-01,2025-02-01,Long Vacation,Pending,karachi;
+7,Anna Davis,01234555,Employee,5,Official Leave,,,Client Presentation,Pending,Address: 741 Davis Lane;Earned Leave,2024-11-28,2024-12-05,Holiday Trip,Pending,lahore;
+8,David Miller,0123455678,Employee,2,Casual Leave,2024-11-12,2024-11-14,Doctor Visit,Approved,Address: 852 Miller St;Earned Leave,2024-12-20,2024-12-25,Christmas Vacation,Pending,lahore;
+9,Laura Garcia,0123456,Supervisor,1,Official Leave,,,Site Visit,Approved,Address: 963 Garcia Blvd;Casual Leave,2024-11-15,2024-11-17,Personal Work,Pending,lahore;
+10,Chris Lee,01234567,Employee,9,Earned Leave,2024-11-18,2024-11-22,Family Gathering,Pending,Address: 159 Lee Ave;Unpaid Leave,2024-12-01,2025-01-31,Study Break,Pending,lahore;
+11,Jessica Hall,0123456,Employee,9,Casual Leave,2024-11-05,2024-11-06,Emergency,Pending,lahore;Official Leave,,,Meeting,Pending,lahore;
+12,Tom Walker,012345678,Employee,5,Earned Leave,2024-12-01,2024-12-10,Wedding Preparation,Pending,lahore;
+13,Sophia Adams,012345566,Employee,2,Casual Leave,2024-11-10,2024-11-11,Sick Leave,Pending,lahore;
+14,Liam Harris,0123456677,Employee,2,Earned Leave,2024-12-15,2024-12-20,New Year Celebration,Approved,lahore;
+15,James Walker,0222333444,Guard,,
+16,David Harris,03324453435,Guard,,
+17,Michael Evans,0471234566,Guard,,
